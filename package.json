@@ -1,0 +1,35 @@
+{
+  "name": "checkpoint-restapi",
+  "version": "1.0.0",
+  "description": "In this checkpoint, you will be performing a series of guided instructions to create a REST API by manipulating your database with mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussamaghaoui93/Checkpoint-RESTAPI.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "express",
+    "mongoose",
+    "REST",
+    "API"
+  ],
+  "author": "Ghaoui Oussama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oussamaghaoui93/Checkpoint-RESTAPI/issues"
+  },
+  "homepage": "https://github.com/oussamaghaoui93/Checkpoint-RESTAPI#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7"
+  }
+}
